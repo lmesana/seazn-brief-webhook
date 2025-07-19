@@ -1,0 +1,1 @@
+# seazn-brief-webhook
